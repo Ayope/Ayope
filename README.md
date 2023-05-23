@@ -12,7 +12,7 @@ A young web developer passionate about web and mobile development, highly motiva
 
 * 🌍  I'm based in Morocco
 * 📖  ❤ Reading 
-* 🎨  ❤ creating and be more creative
+* 🎨  ❤ creating creative solutions
 * 🧠  ❤ learning 
 
 # Technologies
